@@ -1,0 +1,23 @@
+.heading{
+   background-color:orange;
+   color:darkblue;
+}
+
+h1.heading{
+   text-align: center;
+}
+
+p{
+   background-color: cornflowerblue;
+}
+p,li{
+   font-family:"Brush Script MT", cursive;
+}
+
+#ingredients{
+   background-color: lightgreen;
+}
+
+#steps{
+   background-color: aquamarine;
+}
